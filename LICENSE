@@ -1,6 +1,18 @@
-MIT License
+方針 : 
+因為有些東西有法律問題 
+假設我開公司，主專案嚴禁直接引入此包(間接定義根據法條持續穩定性的條約(10+)，而不是政治操作的短期法律(10-))
 
-Copyright (c) 2020 hahaha
+此包基本上只是用來滿足一般法規需求，而不是將所有串接API都打通 
+ 
+當主專案綁定此函式庫開發，則歸類為外圍組織，外圍組織基本上要簽責任切割條約(出事不關我的事，我出事則先切割外圍組織，
+意思是，假設想要自由的話，最差就自己開公司，用我版權許可的範圍內做專案，那我管不到) 
+我內部的專案不打算規劃直接碰觸金融 & 法律的問題 
+
+因為這可能要上班用，不加額外條款，在我的公司內才會有上述限制
+備註 : 其他人會用到的，我不一定會直接放進來，因為那可能不是我要用的
+
+
+Copyright (C) <2020> <copyright hahaha(Chen Jie Qi)>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +31,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
