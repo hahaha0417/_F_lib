@@ -19,7 +19,7 @@
 
 
 ## 說明
-相依於 php hahahalib & hahalib的 generator(point) library
+相依於 php hahahalib & hahalib的 _f_lib
 
 
 ## 維護問題
